@@ -14,4 +14,3 @@ Same pattern as the rest of the desk:
 - **[esp-infrastructure_monitor](https://github.com/pranaystark/esp-infrastructure_monitor)** — same job on a XIAO ESP32-C6, WiFiManager so it isn’t hard-coded to one SSID.
 - **[SONOFF_MQTT](https://github.com/pranaystark/SONOFF_MQTT)** / **[Ifttt-button](https://github.com/pranaystark/Ifttt-button)** — older house wiring. Sonoff temp/humidity over Adafruit MQTT; ESP8266-01 as a dash-style button.
 
-Sydney.
